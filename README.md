@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy JuanM Rodriguez!
+# 👋 ¡Hola, soy Juan Manuel Rodriguez!
 
 ![Banner](https://img.shields.io/badge/Frontend-React-blue?logo=react&style=flat)
 ![Badge Laravel](https://img.shields.io/badge/Backend-Laravel-red?logo=laravel&style=flat)
@@ -15,7 +15,8 @@ Soy desarrollador web fullstack apasionado por crear aplicaciones modernas y fun
 - **Frontend**: React, Inertia.js, TailwindCSS  
 - **Autenticación**: Google Auth, JWT  
 - **Control de versiones**: Git & GitHub  
-- **Metodologías**: Arquitectura Controlador → Servicio → Repositorio, DTOs  
+- **Metodologías**: Arquitectura Controlador → Servicio → Repositorio, DTOs, MVO
+- **Base de Datos**: MySQL, Oracle, Apache Solr 
 
 ---
 
@@ -23,17 +24,15 @@ Soy desarrollador web fullstack apasionado por crear aplicaciones modernas y fun
 
 | Proyecto | Tech Stack | Descripción |
 |----------|------------|------------|
-| **Finder** | Laravel + React + Inertia | Plataforma para buscar y gestionar negocios locales |
-| **Proyecto 2** | PHP + MySQL + JS | Descripción breve del proyecto 2 |
-| **Proyecto 3** | React + Tailwind | Descripción breve del proyecto 3 |
+| **Finder** | Laravel + React + Inertia | Plataforma para buscar y gestionar negocios locales | 
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![JuanM Rodriguez GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![Juan Manuel Rodriguez GitHub stats](https://github-readme-stats.vercel.app/api?username=juanma1989dev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanma1989dev&layout=compact&theme=radical)
 
 ---
 
@@ -41,9 +40,6 @@ Soy desarrollador web fullstack apasionado por crear aplicaciones modernas y fun
 
 - ✉ Email: tu-email@ejemplo.com  
 - 🌐 Website / Portfolio: [tuwebsite.com](https://tuwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-- 🐦 Twitter: [@tu_usuario](https://twitter.com/tu_usuario)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/juan-guzman-web-php-backend/](https://www.linkedin.com/in/juan-guzman-web-php-backend/)   
 
----
-
-> “La programación es el arte de decirle a una computadora qué hacer… con estilo.” 💻✨
+--- 
